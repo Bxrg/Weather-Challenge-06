@@ -1,6 +1,6 @@
 <h1>Weather Dashboard</h1>
 
-<img src="./assets/demoimage.png></img>
+<img src="./assets/demoimage.png"></img>
 
 <h2>Description</h2>
 <p>This application can pull weather information from an API to display forecasts around the world!</p>
